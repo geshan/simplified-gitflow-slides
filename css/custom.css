@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+/*!
+ * custom.js
+ * http://geshan.blogspot.com
+ * MIT licensed
+ *
+ * Copyright (C) 2014 Geshan Manandhar
+ */
+
+div.title-with-bg {
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    color: #ffffff;
+}
+
+div.title-position {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 55px;
+}
+
+div.title-position-mid {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 100px;
+}
+
+div.title-position-middle {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 150px;
+}
+
+div.title-position-middle3 {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 250px;
+}
+
+div.title-position-middle4 {
+    position: absolute;
+    width: 90%;
+    height: 55px;
+    z-index: 4;
+    left: 0px;
+    top: 350px;
+}
+
+h4.white {
+    color: #fff;
+}
+
+/** overrides **/
